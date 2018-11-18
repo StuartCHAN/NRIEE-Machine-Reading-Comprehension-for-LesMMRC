@@ -1,4 +1,4 @@
-link£ºhttps://pan.baidu.com/s/1cq-zazlNdUkZ_GWJqx_qEQ 
-passcode£ºbxn3 
+link: https://pan.baidu.com/s/1cq-zazlNdUkZ_GWJqx_qEQ 
+passcode: bxn3 
 
 To download the data samples, please copy and open Yun Baidu.
